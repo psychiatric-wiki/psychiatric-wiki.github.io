@@ -105,6 +105,7 @@ export default defineConfig({
       },
       {
         text: "参与我们中 / Take Your Part In Our Project",
+        link: '/take-your-part-in',
         items: [
           { text: '贡献自己对精神科的经验或看法 / Contribute Your Experiences or Opinions to Psychiatric Care', link: '/takepartin/experience-idea' },
           { text: '贡献医疗方案或信息 / Contribute Medical Plans or Information', link: '/takepartin/medical-plans' },
