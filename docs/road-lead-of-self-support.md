@@ -1,4 +1,8 @@
+---
+layout: doc
+---
 
-# 自助之引路 / Self Supporting's Road Leading
+
+# 自救之引路 / Self Supporting's Road Leading
 
 pass
