@@ -53,7 +53,7 @@ export default defineConfig({
               {
                 text: '基本的精神病学知识 / Basic Psychiatric Knowledge',
                 items: [
-                  { text: '人卫精神病学 / Renwei Psychiatry', link: '/' }
+                  { text: '人卫精神病学 / Renwei Psychiatry', link: '/' },
                   { text: '开源精神病学教科书 / Open Source Psychiatry Textbook', link: '/' }
                 ]
               },
