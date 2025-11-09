@@ -11,6 +11,7 @@ export default defineConfig({
     sidebar: [
       {
         text: '揭露与批判 / Exposing and Critiquing',
+        link: '/expose-and-criticize',
         items: [
           {
             text: '揭露：口述史与作品引用 / Exposing: Oral History and Work Citation',
@@ -35,6 +36,7 @@ export default defineConfig({
       },
       {
         text: "自救之引路 / Self Supporting's Road Leading",
+        link: '/road-lead-of-self-support',
         items: [
           { text: '自救篇序言 / Self Supporting: Preface', link: '/selfsupport/perface' },
           {
