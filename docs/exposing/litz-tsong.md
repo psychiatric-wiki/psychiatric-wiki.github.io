@@ -2,7 +2,7 @@
 layout: doc
 ---
 
-# 同利兹（Litz Tsong）的访谈 / Interview with Litz Tsong
+# 同利兹（Litz Tsong）的访谈
 
 > [!IMPORTANT]
 > 利益冲突声明：主访谈者 Yonah Cibani 和受访者有过亲密关系，另外一位访谈者橄榄菜作为伦理监督参与此次访谈。
