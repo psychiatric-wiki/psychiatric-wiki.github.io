@@ -16,8 +16,7 @@ export default defineConfig({
           {
             text: '揭露：口述史与作品引用 / Exposing: Oral History and Work Citation',
             items: [
-              { text: '一位跨性别分裂情感性障碍患者在上海市精神卫生中心的住院口述史 / Oral History of a Transgender Patient with Schizoaffective Disorder at Shanghai Mental Health Center', link: '/exposing/litz-tsong' },
-              { text: '一位因分离性身份识别障碍而在上海精神卫生中心住院的患者的轻小说作品以及所作歌曲专辑： Indie Hospital / A Light Novel and Music Album by a Patient with Dissociative Identity Disorder at Shanghai Mental Health Center: Indie Hospital', link: '/exposing/indie-hospital' }
+              { text: '一位跨性别分裂情感性障碍患者在上海市精神卫生中心的住院口述史 / Oral History of a Transgender Patient with Schizoaffective Disorder at Shanghai Mental Health Center', link: '/exposing/litz-tsong' }
             ]
           },
           {
