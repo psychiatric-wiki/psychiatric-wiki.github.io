@@ -1,9 +1,7 @@
 
 # 精神科维基 / Psychiatric Wiki
 
-一个旨在于揭露批判现行精神科医疗体制并为社群自救的精神医学支持提供支援的维基
-
-A wiki dedicated to exposing and critiquing the current psychiatric healthcare system and providing support for community
+因着对现行精神科医疗体系弊端的窥视而能够对急需适当的精神科医疗支持而不得的群体提供有关于进行他们自己的精神科医疗自救的支持的维基
 
 ## 如何构建 / How to Build
 
