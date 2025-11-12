@@ -11,16 +11,16 @@ hero:
   actions:
     - theme: brand
       text: 现在的精神科医疗体系是什么样的？
-      link: /expose-and-criticize
+      link: /peek
     - theme: brand
       text: 在这样的状况下我们怎么才能取得适当的精神科医疗？
-      link: /road-lead-of-self-save
+      link: /save
     - theme: brand
       text: 帮助或直接参与本站的编写！
-      link: /take-your-part-in
+      link: /contribute
     - theme: brand
       text: 本站的大致愿望以及关于本站的一些基本信息
-      link: /general-discussion-and-about-us
+      link: /about
 
 features:
   - title: 我们需要什么？

@@ -4,14 +4,22 @@ export default defineConfig({
   title: "精神科维基 / Psychiatric Wiki",
   description: "因着对现行精神科医疗体系弊端的窥视而能够对急需适当的精神科医疗支持而不得的群体提供有关于进行他们自己的精神科医疗自救的支持的维基",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  lastUpdated: true,
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     nav: [
-      { text: '首页', link: '/' }
+      { text: '首页', link: '/' },
+      { text: '窥视', link: '/peek' },
+      { text: '自救', link: '/save' },
+      { text: '贡献', link: '/contribute' },
+      { text: '关于', link: '/about' }
     ],
     sidebar: [
       {
         text: '现在的精神科医疗体系是什么样的？',
-        link: '/expose-and-criticize',
+        link: '/peek',
         items: [
           {
             text: '材料',
@@ -37,7 +45,7 @@ export default defineConfig({
       },
       {
         text: "在这样的状况下我们怎么才能取得适当的精神科医疗？",
-        link: '/road-lead-of-self-support',
+        link: '/save',
         items: [
           {
             text: '基础',
@@ -67,8 +75,8 @@ export default defineConfig({
           }
         ]
       },
-      { text: "帮助或直接参与本站的编写！", link: '/take-your-part-in', },
-      { text: "本站的大致愿望以及关于本站的一些基本信息", link: '/general-discussion-and-about-us', }
+      { text: "帮助或直接参与本站的编写！", link: '/contribute', },
+      { text: "本站的大致愿望以及关于本站的一些基本信息", link: '/about', }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/psychiatric-wiki/' }
