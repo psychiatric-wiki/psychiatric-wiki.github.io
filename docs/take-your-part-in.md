@@ -2,14 +2,14 @@
 layout: doc
 ---
 
-# 加入我们
+# 帮助或直接参与本站的编写！
 
 ## 您可以通过以下方式参与精神科维基项目：
 
-- [分享就医或支持过程中的经验与见解](/takepartin/experience-idea)
-- [提供或整理医疗资源与资料](/takepartin/medical-plans)
-- [参与医疗现状资料整理与分析](/takepartin/exposing-critiquing)
-- [参与自助指南与写作协作](/takepartin/self-supporting)
+- 分享就医或支持过程中的经验与见解
+- 提供或整理医疗资源与资料
+- 参与医疗现状资料整理与分析
+- 参与自助指南与写作协作
 
 ## 联系方式
 

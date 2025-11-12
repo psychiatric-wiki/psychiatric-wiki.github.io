@@ -19,7 +19,7 @@ hero:
       text: 帮助或直接参与本站的编写！
       link: /take-your-part-in
     - theme: brand
-      text: 本站的大致愿望以及关于本站的一些基本信息。
+      text: 本站的大致愿望以及关于本站的一些基本信息
       link: /general-discussion-and-about-us
 
 features:
