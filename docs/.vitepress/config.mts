@@ -52,7 +52,7 @@ export default defineConfig({
             items: [
               { text: '避开我们早已观察到的这样那样的弊病', link: '/basis/avoid' },
               { text: '精神病学基础', link: '/basis/psychiatry' },
-              { text: '精神药理学基础', link: '/basis/psychopharmacology' }
+              { text: '精神药理学基础', link: '/basis/psychopharmacy' }
             ]
           },
           {
