@@ -79,6 +79,7 @@ export default defineConfig({
       { text: "本站的大致愿望以及关于本站的一些基本信息", link: '/about', }
     ],
     socialLinks: [
+      { icon: 'telegram', link: 'https://t.me/psychiatric_wiki_bot/' },
       { icon: 'github', link: 'https://github.com/psychiatric-wiki/' }
     ]
   }
