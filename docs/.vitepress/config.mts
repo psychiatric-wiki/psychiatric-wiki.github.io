@@ -16,20 +16,21 @@ export default defineConfig({
           {
             text: '材料',
             items: [
-              { text: '一位跨性别分裂情感性障碍患者在上海市精神卫生中心住院的口述史', link: '/exposing/litz-tsong' },
-              { text: '一位作曲者在上海精神科住院相关的作品创作', link: '/exposing/indie-hospital' }
+              { text: '一位跨性别分裂情感性障碍患者在上海市精神卫生中心住院的口述史', link: '/expose/litz-tsong' },
+              { text: '一位作曲者在上海精神科住院相关的作品创作', link: '/expose/indie-hospital' }
             ]
           },
           {
             text: '评析',
             items: [
-              { text: '精神科医师培育体系的现状与挑战', link: '/critiquing/useless-psychiatric-education' },
-              { text: '门诊药物治疗体系的现状与改进空间', link: '/critiquing/conservative-outpatient-medication' },
-              { text: '心理治疗体系的现状与发展方向', link: '/critiquing/meaningless-persecutory-psychotherapy' },
-              { text: '精神科医疗收费体系现状分析', link: '/critiquing/psychiatric-financial-persecution' },
-              { text: '住院治疗体系对社会功能的关注度', link: '/critiquing/inpatient-social-ignoring' },
-              { text: '精神医疗体系社会角色探讨', link: '/critiquing/politicization-psychiatric' },
-              { text: '精神科医疗体系现状综述', link: '/critiquing/general-theory' }
+              { text: '精神科医患的对立隔离与藐视漠视', link: '/criticize/isolation' },
+              { text: '精神科住院患者的非人化', link: '/criticize/dehumanization' },
+              { text: '精神科教育的不可靠与受漠视', link: '/criticize/education' },
+              { text: '精神科治疗的保守漠视与傲慢', link: '/criticize/conservative' },
+              { text: '精神科心理治疗的无效', link: '/criticize/psychotherapy' },
+              { text: '精神科的残害人金钱导向', link: '/criticize/financial' },
+              { text: '精神科住院对社会功能的漠视', link: '/criticize/socialfunction' },
+              { text: '精神科现行医疗体系评析综述', link: '/criticize/general' }
             ]
           }
         ]
@@ -38,29 +39,28 @@ export default defineConfig({
         text: "在这样的状况下我们怎么才能取得适当的精神科医疗？",
         link: '/road-lead-of-self-support',
         items: [
-          { text: '避开我们早已观察到的这样那样的弊病', link: '/selfsupport/' },
           {
-            text: '基础知识学习',
+            text: '基础',
             items: [
-              { text: '精神疾病基础知识', link: '/selfsupport/basic-knowledge' },
-              { text: '常用精神科药物介绍', link: '/selfsupport/common-medications' },
-              { text: '精神科就医流程指南', link: '/selfsupport/medical-process' }
+              { text: '避开我们早已观察到的这样那样的弊病', link: '/basis/avoid' },
+              { text: '精神病学基础', link: '/basis/psychiatry' },
+              { text: '精神药理学基础', link: '/basis/psychopharmacology' }
             ]
           },
           {
-            text: '心理危机干预指南',
-            items: [
-
-            ]
-          },
-          {
-            text: '药物使用安全指南',
+            text: '重症护理',
             items: [
 
             ]
           },
           {
-            text: '抑郁症康复指南',
+            text: '危机干预',
+            items: [
+
+            ]
+          },
+          {
+            text: '康复',
             items: [
 
             ]
